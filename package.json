@@ -1,0 +1,21 @@
+{
+  "name": "c0d3.js",
+  "version": "0.0.0",
+  "description": "c0d3",
+  "main": "c0d3.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbarzi/c0d3.js.git"
+  },
+  "keywords": ["c0d3", "js", "c0d3.js"],
+  "author": "manuelbarzi",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/manuelbarzi/c0d3.js/issues"
+  },
+  "homepage": "https://github.com/manuelbarzi/c0d3.js#readme"
+}
